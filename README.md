@@ -2,9 +2,6 @@
 
 =========Backend Step=========
 
-
--------------create Virtual enviroment -------------
-
 python -m venv venv
 
 activate virtualenv
