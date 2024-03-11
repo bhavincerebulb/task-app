@@ -16,4 +16,5 @@ python manage.py migrate
 =========Forntend Step========
 
 yarn 
+
 yarn start
